@@ -2,10 +2,10 @@
 This was my final group project at Le Wagon. Primarily a mobile app, it is an app in the style of Duolingo where instead of daily language lessons, you do activities that are meant to inspire creativity; for example, writing a haiku based on a prompt or drawing a picture based on recordings of some sounds outside. 
 
 ## Teammates
-- @alexandertan527
-- @patricka03
-- @Andrejo42
-- @paulosagie15
+- [Alex](https://github.com/alexandertan527)
+- [Patrick](https://github.com/patricka03)
+- [Joanne](https://github.com/Andrejo42)
+- [Paul](https://github.com/paulosagie15)
 
 ## Goals
 - To create a full-stack application from conception to finished product.
