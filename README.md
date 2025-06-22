@@ -35,7 +35,7 @@ I learnt a lot about working as a team. My teammates were fantastic, and from th
 
 On a more personal note, I improved my JavaScript skills a lot. I really enjoyed using JS to make certain features more user-focused with smooth animations and interactivity. This is something I now strive to include in every project. 
 
-There were some things I found difficult. I got into circles trying to figure out some of the Active Record (database) features and how they communicated with the frontend, for example on the dashboard page. Working with my teammates, particularly [Alex](https://github.com/alexandertan527), helped me with this and I found the process of discussing the problem hugely beneficial. Active Record and databases in general is something I am focusing on in my self-directed projects. 
+There were some things I found less intuitive. I got into circles trying to figure out some of the Active Record (database) features and how they communicated with the frontend, for example on the dashboard page. Working with my teammates, particularly [Alex](https://github.com/alexandertan527), helped me with this and I found the process of discussing the problem hugely beneficial. Active Record and databases in general is something I am focusing on in my self-directed projects. 
 
 ## Future Additions
 As this was a project completed in the span of about 7/8 days, we focused on completing Morning Burrito as more of an MVP (minimum viable product). As a result, it is not responsively designed and some of the features are not fully working yet. A priority would be to ensure it is responsive and can be used as a desktop app. 
