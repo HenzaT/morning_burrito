@@ -23,7 +23,16 @@ This was my final group project at Le Wagon. Primarily a mobile app, it is an ap
 - Figma
 
 ## Process
-TBD
+One page I'm particularly proud of building is the preferences page. Before starting, I knew I wanted to:
+- make it interactive.
+- make any transitions as smooth as possible.
+- make navigation for the user as easy and intuitive as possible.
+
+These three things were key, as it is one of the first pages the user sees when using Morning Burrito. 
+
+https://github.com/user-attachments/assets/03384e92-d14f-4236-8d0a-a3c153428a9a
+
+
 
 ## Reflections
 I learnt a lot about working as a team. My teammates were fantastic, and from the start clear communication was prioritised. We all had different strengths, but were equally happy to challenge ourselves also. This project reinforced for me the importance of:
